@@ -12,6 +12,29 @@
 
 ---
 
+## ⚡ Quick Start with Makefile
+
+**One-stop shop for all commands!** Just use `make`:
+
+```bash
+# See all available commands
+make help
+
+# Setup and run everything
+make setup          # Install dependencies
+make data           # Generate sample data
+make train          # Train baseline model
+make test           # Run all tests
+make info           # Show project status
+```
+
+**Full workflow:**
+```bash
+make setup && make data && make train && make test
+```
+
+---
+
 ## 📊 Training Data Overview
 
 **Official Dataset:** Provided by SemEval 2026 Task 11 organizers
@@ -212,6 +235,70 @@ cp src/features/_template.py src/features/yourname.py
 cp src/models/_template.py src/models/yourname.py
 # Edit, then register in src/models/__init__.py (2 lines)
 ```
+
+---
+
+## 🎓 New to Research? Start Here!
+
+### 🚀 "I'm a Freshman - Can I Contribute?"
+
+**YES! Absolutely!** Here's how easy it is:
+
+#### 🟢 Super Easy (1-2 hours, zero coding)
+1. **Read syllogisms** - Just look at the data and spot patterns
+2. **Write documentation** - Explain what you learned in plain English
+3. **Test the pipeline** - Run `make setup && make data && make train`
+4. **Report bugs** - If something breaks, tell us!
+
+**Skills needed:** None! Just curiosity 🧐
+
+#### 🟡 Easy (2-5 hours, basic Python)
+1. **Data exploration** - Count things, make charts with pandas/matplotlib
+2. **Add simple features** - Count words, detect keywords like "all", "some"
+3. **Run experiments** - Change parameters and see what happens
+4. **Write tests** - Check if functions work correctly
+
+**Skills needed:** Basic Python (if/for loops, functions)
+
+#### 🟠 Medium (5-10 hours, some ML)
+1. **Feature engineering** - Extract linguistic patterns
+2. **Model training** - Try different scikit-learn models
+3. **Evaluation** - Compare model performance
+4. **Visualization** - Create plots showing results
+
+**Skills needed:** Python + basic ML (CS229/ML course helpful)
+
+### ✅ What You'll Learn
+- 📊 Data analysis and visualization
+- 🤖 Machine learning basics
+- 🌍 Natural language processing
+- 📝 Research paper writing
+- 👥 Team collaboration with Git
+- 🏆 Competition experience
+
+### ⏱️ Time Commitment
+- **Minimum:** 2-3 hours/week (data exploration, documentation)
+- **Recommended:** 5-8 hours/week (feature engineering, experiments)
+- **Intensive:** 10-15 hours/week (advanced models, research)
+
+### 🎯 Your First Task (30 minutes)
+```bash
+# 1. Setup (5 min)
+make setup
+
+# 2. Generate data (2 min)
+make data
+
+# 3. Look at the data (10 min)
+head data/train_subtask1.json
+
+# 4. Train a model (10 min)
+make train
+
+# 5. You just did ML research! 🎉
+```
+
+**Next steps:** Pick a task below based on your skill level ⬇️
 
 ---
 
@@ -502,7 +589,7 @@ python3 src/pipeline.py train --subtask 1
 
 ## 📄 License
 
-MIT License - See [LICENSE](LICENSE) for details
+Coming soon!
 
 ---
 
