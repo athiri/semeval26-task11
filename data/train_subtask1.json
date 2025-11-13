@@ -1,0 +1,602 @@
+[
+  {
+    "id": "0",
+    "syllogism": "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "1",
+    "syllogism": "Some birds are animals. All animals are flying. Therefore, all birds are flying.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "2",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "3",
+    "syllogism": "All rocks are objects. Some objects are living. Therefore, all rocks are living.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "4",
+    "syllogism": "No fish are mammals. All whales are mammals. Therefore, no whales are fish.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "5",
+    "syllogism": "All dogs are animals. Some animals are pets. Therefore, all dogs are pets.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "6",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "7",
+    "syllogism": "All rocks are objects. Some objects are living. Therefore, all rocks are living.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "8",
+    "syllogism": "No fish are mammals. All whales are mammals. Therefore, no whales are fish.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "9",
+    "syllogism": "Some fish are creatures. All creatures are aquatic. Therefore, all fish are aquatic.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "10",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "11",
+    "syllogism": "Some clouds are solid. All solid are heavy. Therefore, all clouds are heavy.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "12",
+    "syllogism": "No fish are mammals. All whales are mammals. Therefore, no whales are fish.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "13",
+    "syllogism": "All cats are mammals. Some mammals are friendly. Therefore, all cats are friendly.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "14",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "15",
+    "syllogism": "Some stones are plants. All plants are growing. Therefore, all stones are growing.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "16",
+    "syllogism": "No birds are reptiles. All snakes are reptiles. Therefore, no snakes are birds.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "17",
+    "syllogism": "Some birds are animals. All animals are flying. Therefore, all birds are flying.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "18",
+    "syllogism": "No trees are animals. All dogs are animals. Therefore, no dogs are trees.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "19",
+    "syllogism": "Some stones are plants. All plants are growing. Therefore, all stones are growing.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "20",
+    "syllogism": "No birds are reptiles. All snakes are reptiles. Therefore, no snakes are birds.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "21",
+    "syllogism": "All dogs are animals. Some animals are pets. Therefore, all dogs are pets.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "22",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "23",
+    "syllogism": "Some stones are plants. All plants are growing. Therefore, all stones are growing.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "24",
+    "syllogism": "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "25",
+    "syllogism": "Some fish are creatures. All creatures are aquatic. Therefore, all fish are aquatic.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "26",
+    "syllogism": "No water are solid. All ice are solid. Therefore, no ice are water.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "27",
+    "syllogism": "All cars are vehicles. Some vehicles are flying. Therefore, all cars are flying.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "28",
+    "syllogism": "No fish are mammals. All whales are mammals. Therefore, no whales are fish.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "29",
+    "syllogism": "Some birds are animals. All animals are flying. Therefore, all birds are flying.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "30",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "31",
+    "syllogism": "All cars are vehicles. Some vehicles are flying. Therefore, all cars are flying.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "32",
+    "syllogism": "No birds are reptiles. All snakes are reptiles. Therefore, no snakes are birds.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "33",
+    "syllogism": "All cats are mammals. Some mammals are friendly. Therefore, all cats are friendly.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "34",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "35",
+    "syllogism": "All cars are vehicles. Some vehicles are flying. Therefore, all cars are flying.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "36",
+    "syllogism": "No birds are reptiles. All snakes are reptiles. Therefore, no snakes are birds.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "37",
+    "syllogism": "All dogs are animals. Some animals are pets. Therefore, all dogs are pets.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "38",
+    "syllogism": "No trees are animals. All dogs are animals. Therefore, no dogs are trees.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "39",
+    "syllogism": "Some clouds are solid. All solid are heavy. Therefore, all clouds are heavy.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "40",
+    "syllogism": "No fish are mammals. All whales are mammals. Therefore, no whales are fish.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "41",
+    "syllogism": "Some birds are animals. All animals are flying. Therefore, all birds are flying.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "42",
+    "syllogism": "All cars are birds. All birds are fish. Therefore, all cars are fish.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "43",
+    "syllogism": "Some clouds are solid. All solid are heavy. Therefore, all clouds are heavy.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "44",
+    "syllogism": "No fish are mammals. All whales are mammals. Therefore, no whales are fish.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "45",
+    "syllogism": "All cats are mammals. Some mammals are friendly. Therefore, all cats are friendly.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "46",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "47",
+    "syllogism": "All rocks are objects. Some objects are living. Therefore, all rocks are living.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "48",
+    "syllogism": "All cats are felines. All felines are carnivores. Therefore, all cats are carnivores.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "49",
+    "syllogism": "All cats are mammals. Some mammals are friendly. Therefore, all cats are friendly.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "50",
+    "syllogism": "No water are solid. All ice are solid. Therefore, no ice are water.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "51",
+    "syllogism": "Some stones are plants. All plants are growing. Therefore, all stones are growing.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "52",
+    "syllogism": "All cats are felines. All felines are carnivores. Therefore, all cats are carnivores.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "53",
+    "syllogism": "Some birds are animals. All animals are flying. Therefore, all birds are flying.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "54",
+    "syllogism": "No water are solid. All ice are solid. Therefore, no ice are water.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "55",
+    "syllogism": "All cars are vehicles. Some vehicles are flying. Therefore, all cars are flying.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "56",
+    "syllogism": "All cats are felines. All felines are carnivores. Therefore, all cats are carnivores.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "57",
+    "syllogism": "All dogs are animals. Some animals are pets. Therefore, all dogs are pets.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "58",
+    "syllogism": "No trees are animals. All dogs are animals. Therefore, no dogs are trees.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "59",
+    "syllogism": "All cars are vehicles. Some vehicles are flying. Therefore, all cars are flying.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "60",
+    "syllogism": "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "61",
+    "syllogism": "Some fish are creatures. All creatures are aquatic. Therefore, all fish are aquatic.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "62",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "63",
+    "syllogism": "Some clouds are solid. All solid are heavy. Therefore, all clouds are heavy.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "64",
+    "syllogism": "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "65",
+    "syllogism": "All dogs are animals. Some animals are pets. Therefore, all dogs are pets.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "66",
+    "syllogism": "All cars are birds. All birds are fish. Therefore, all cars are fish.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "67",
+    "syllogism": "All rocks are objects. Some objects are living. Therefore, all rocks are living.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "68",
+    "syllogism": "All cats are felines. All felines are carnivores. Therefore, all cats are carnivores.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "69",
+    "syllogism": "All cats are mammals. Some mammals are friendly. Therefore, all cats are friendly.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "70",
+    "syllogism": "No trees are animals. All dogs are animals. Therefore, no dogs are trees.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "71",
+    "syllogism": "All cars are vehicles. Some vehicles are flying. Therefore, all cars are flying.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "72",
+    "syllogism": "No birds are reptiles. All snakes are reptiles. Therefore, no snakes are birds.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "73",
+    "syllogism": "Some fish are creatures. All creatures are aquatic. Therefore, all fish are aquatic.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "74",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "75",
+    "syllogism": "All rocks are objects. Some objects are living. Therefore, all rocks are living.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "76",
+    "syllogism": "No fish are mammals. All whales are mammals. Therefore, no whales are fish.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "77",
+    "syllogism": "All dogs are animals. Some animals are pets. Therefore, all dogs are pets.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "78",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "79",
+    "syllogism": "All rocks are objects. Some objects are living. Therefore, all rocks are living.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "80",
+    "syllogism": "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "81",
+    "syllogism": "Some birds are animals. All animals are flying. Therefore, all birds are flying.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "82",
+    "syllogism": "All cars are birds. All birds are fish. Therefore, all cars are fish.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "83",
+    "syllogism": "Some stones are plants. All plants are growing. Therefore, all stones are growing.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "84",
+    "syllogism": "All cats are felines. All felines are carnivores. Therefore, all cats are carnivores.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "85",
+    "syllogism": "All cats are mammals. Some mammals are friendly. Therefore, all cats are friendly.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "86",
+    "syllogism": "No trees are animals. All dogs are animals. Therefore, no dogs are trees.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "87",
+    "syllogism": "All rocks are objects. Some objects are living. Therefore, all rocks are living.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "88",
+    "syllogism": "No birds are reptiles. All snakes are reptiles. Therefore, no snakes are birds.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "89",
+    "syllogism": "Some fish are creatures. All creatures are aquatic. Therefore, all fish are aquatic.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "90",
+    "syllogism": "No trees are animals. All dogs are animals. Therefore, no dogs are trees.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "91",
+    "syllogism": "All rocks are objects. Some objects are living. Therefore, all rocks are living.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "92",
+    "syllogism": "No birds are reptiles. All snakes are reptiles. Therefore, no snakes are birds.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "93",
+    "syllogism": "All dogs are animals. Some animals are pets. Therefore, all dogs are pets.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "94",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "95",
+    "syllogism": "Some stones are plants. All plants are growing. Therefore, all stones are growing.",
+    "validity": false,
+    "plausibility": false
+  },
+  {
+    "id": "96",
+    "syllogism": "No fish are mammals. All whales are mammals. Therefore, no whales are fish.",
+    "validity": true,
+    "plausibility": true
+  },
+  {
+    "id": "97",
+    "syllogism": "Some fish are creatures. All creatures are aquatic. Therefore, all fish are aquatic.",
+    "validity": false,
+    "plausibility": true
+  },
+  {
+    "id": "98",
+    "syllogism": "All rocks are plants. All plants are animals. Therefore, all rocks are animals.",
+    "validity": true,
+    "plausibility": false
+  },
+  {
+    "id": "99",
+    "syllogism": "Some stones are plants. All plants are growing. Therefore, all stones are growing.",
+    "validity": false,
+    "plausibility": false
+  }
+]

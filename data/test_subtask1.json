@@ -1,0 +1,52 @@
+[
+  {
+    "id": "0",
+    "syllogism": "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+    "validity": true
+  },
+  {
+    "id": "1",
+    "syllogism": "Some fish are creatures. All creatures are aquatic. Therefore, all fish are aquatic.",
+    "validity": false
+  },
+  {
+    "id": "2",
+    "syllogism": "No trees are animals. All dogs are animals. Therefore, no dogs are trees.",
+    "validity": true
+  },
+  {
+    "id": "3",
+    "syllogism": "Some stones are plants. All plants are growing. Therefore, all stones are growing.",
+    "validity": false
+  },
+  {
+    "id": "4",
+    "syllogism": "No birds are reptiles. All snakes are reptiles. Therefore, no snakes are birds.",
+    "validity": true
+  },
+  {
+    "id": "5",
+    "syllogism": "All cats are mammals. Some mammals are friendly. Therefore, all cats are friendly.",
+    "validity": false
+  },
+  {
+    "id": "6",
+    "syllogism": "No water are solid. All ice are solid. Therefore, no ice are water.",
+    "validity": true
+  },
+  {
+    "id": "7",
+    "syllogism": "All rocks are objects. Some objects are living. Therefore, all rocks are living.",
+    "validity": false
+  },
+  {
+    "id": "8",
+    "syllogism": "No fish are mammals. All whales are mammals. Therefore, no whales are fish.",
+    "validity": true
+  },
+  {
+    "id": "9",
+    "syllogism": "All dogs are animals. Some animals are pets. Therefore, all dogs are pets.",
+    "validity": false
+  }
+]
