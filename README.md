@@ -106,8 +106,8 @@ Syllogism: "All cats are reptiles. All reptiles are cold-blooded. Therefore, all
 **Recommended: Use our setup script**
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd semeval_task11_complete
+git clone https://github.com/YOUR_USERNAME/semeval-task11.git
+cd semeval-task11
 
 # Run automated setup
 ./setup_env.sh
